@@ -7,6 +7,8 @@ GeoHealthCheck
 ==============
 
 GeoHealthCheck (GHC) is a Service Status Checker for OGC Web Services and web APIs in general. 
+This repositoty provides the code to integrate GHC with [TEAM Engine](https://portal.opengeospatial.org/public_ogc/compliance/stats/?output=html&units=yearly) to provide a more robust solution when testing services or data in the web.
+
 See also the [full GHC documentation](http://docs.geohealthcheck.org/). 
 
 Easiest is [to run GHC using Docker](https://github.com/geopython/GeoHealthCheck/blob/master/docker/README.md).
